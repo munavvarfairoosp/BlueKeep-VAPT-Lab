@@ -10,7 +10,6 @@ The primary vulnerability identified was **BlueKeep (CVE-2019-0708)**, which was
 
 > ⚠️ **Disclaimer:** This project was conducted only in an isolated virtual lab for educational purposes. No unauthorized systems were targeted.
 
----
 
 # 🎯 Objectives
 
@@ -23,7 +22,6 @@ The primary vulnerability identified was **BlueKeep (CVE-2019-0708)**, which was
 - 📁 Simulate data exfiltration
 - 📝 Recommend mitigation strategies
 
----
 
 # 🏗️ Lab Environment
 
@@ -34,7 +32,6 @@ The primary vulnerability identified was **BlueKeep (CVE-2019-0708)**, which was
 | 💻 VirtualBox | Virtualization Platform |
 | 🌐 Local Virtual Network | Isolated Testing Environment |
 
----
 
 # 🛠️ Tools Used
 
@@ -46,7 +43,6 @@ The primary vulnerability identified was **BlueKeep (CVE-2019-0708)**, which was
 - ⚡ Meterpreter
 - 🔐 winPEAS
 
----
 
 # 📚 Skills Demonstrated
 
@@ -60,6 +56,8 @@ The primary vulnerability identified was **BlueKeep (CVE-2019-0708)**, which was
 - Persistence Techniques
 - Data Exfiltration Simulation
 - Security Reporting
+
+  ---
 
  👨‍💻 Author
 
