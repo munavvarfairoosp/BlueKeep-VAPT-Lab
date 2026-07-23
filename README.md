@@ -59,6 +59,4 @@ The primary vulnerability identified was **BlueKeep (CVE-2019-0708)**, which was
 
   ---
 
- 👨‍💻 Author
 
-**Name:** *Munavvar Fairoos p*
