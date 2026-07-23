@@ -1,6 +1,6 @@
-# 🔐 Vulnerability Assessment and Penetration Testing (VAPT)
+#  Vulnerability Assessment and Penetration Testing (VAPT)
 
-# 📖 Overview
+#  Overview
 
 This project demonstrates the complete lifecycle of a **Vulnerability Assessment and Penetration Testing (VAPT)** engagement on a simulated Windows environment.
 
@@ -11,40 +11,40 @@ The primary vulnerability identified was **BlueKeep (CVE-2019-0708)**, which was
 > ⚠️ **Disclaimer:** This project was conducted only in an isolated virtual lab for educational purposes. No unauthorized systems were targeted.
 
 
-# 🎯 Objectives
+#  Objectives
 
-- 🔍 Discover live hosts
-- 🌐 Enumerate open ports and services
-- 🖥 Detect operating systems
-- 🛡 Perform vulnerability assessment
-- 💥 Exploit discovered vulnerabilities
-- 🔐 Conduct post-exploitation
-- 📁 Simulate data exfiltration
-- 📝 Recommend mitigation strategies
+-  Discover live hosts
+-  Enumerate open ports and services
+-  Detect operating systems
+-  Perform vulnerability assessment
+-  Exploit discovered vulnerabilities
+-  Conduct post-exploitation
+-  Simulate data exfiltration
+-  Recommend mitigation strategies
 
 
-# 🏗️ Lab Environment
+#  Lab Environment
 
 | Component | Description |
 |-----------|-------------|
-| 🐉 Kali Linux | Attacker Machine |
-| 🖥 Vulnerable Windows Machine | Target System |
-| 💻 VirtualBox | Virtualization Platform |
-| 🌐 Local Virtual Network | Isolated Testing Environment |
+|  Kali Linux | Attacker Machine |
+|  Vulnerable Windows Machine | Target System |
+|  VirtualBox | Virtualization Platform |
+|  Local Virtual Network | Isolated Testing Environment |
 
 
-# 🛠️ Tools Used
+#  Tools Used
 
-- 🐉 Kali Linux
-- 🔎 Nmap
-- 🛡 Nessus Essentials
-- 💣 Metasploit Framework
-- 🔍 Searchsploit
-- ⚡ Meterpreter
-- 🔐 winPEAS
+-  Kali Linux
+-  Nmap
+-  Nessus Essentials
+-  Metasploit Framework
+-  Searchsploit
+-  Meterpreter
+-  winPEAS
 
 
-# 📚 Skills Demonstrated
+#  Skills Demonstrated
 
 - Vulnerability Assessment
 - Penetration Testing
