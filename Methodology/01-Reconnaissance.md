@@ -1,7 +1,7 @@
 ## Network Discovery: 
 ### Commands
 - netdiscover 192.168.1.1/24
-<img width="1152" height="632" alt="net discovery" src="https://github.com/user-attachments/assets/0efc5ae9-6866-4d54-b9dd-c5ca1e1400a3" />
+<img width="1152" height="631" alt="Network Discovery" src="https://github.com/user-attachments/assets/c8e8614d-69b9-4577-95a1-d3afe0f6c595" />
 
 ➤ Discovered Host: 192.168.1.21
 
@@ -9,7 +9,7 @@
 ### Commands
 - nmap -sV 192.168.1.21
   
-<img width="1152" height="635" alt="port" src="https://github.com/user-attachments/assets/ae220dad-ec7a-491b-bf37-4efaa92bf8fa" />
+<img width="1151" height="634" alt="Port   Service Enumeration" src="https://github.com/user-attachments/assets/938c279f-63d7-4d36-8223-953a880a2e37" />
 
 ➤ Detected Services:
 - Port 3389/tcp (msrdp) – Remote Desktop Protocol
