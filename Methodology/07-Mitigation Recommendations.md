@@ -1,4 +1,4 @@
-# 🛡️ Mitigation Recommendations
+ ## 🛡️ Mitigation Recommendations
 
 - Apply Microsoft security patches
 - Disable unused RDP services
