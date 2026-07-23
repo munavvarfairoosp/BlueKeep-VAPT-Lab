@@ -1,5 +1,5 @@
-## 🔍 Network Discovery: 
-### Command= netdiscover 192.168.1.1/24
+# 🔍 Network Discovery: 
+## Command= netdiscover 192.168.1.1/24
 <img width="1152" height="631" alt="Network Discovery" src="https://github.com/user-attachments/assets/c8e8614d-69b9-4577-95a1-d3afe0f6c595" />
 
 ➤ Discovered Host: 192.168.1.21
